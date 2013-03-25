@@ -1,0 +1,6 @@
+D:\ProgramiraneX\VS 2012 Projects\MaxIncreasingSeqInArray\bin\Debug\MaxIncreasingSeqInArray.exe.config
+D:\ProgramiraneX\VS 2012 Projects\MaxIncreasingSeqInArray\bin\Debug\MaxIncreasingSeqInArray.exe
+D:\ProgramiraneX\VS 2012 Projects\MaxIncreasingSeqInArray\bin\Debug\MaxIncreasingSeqInArray.pdb
+D:\ProgramiraneX\VS 2012 Projects\MaxIncreasingSeqInArray\obj\Debug\MaxIncreasingSeqInArray.exe
+D:\ProgramiraneX\VS 2012 Projects\MaxIncreasingSeqInArray\obj\Debug\MaxIncreasingSeqInArray.pdb
+D:\ProgramiraneX\VS 2012 Projects\MaxIncreasingSeqInArray\obj\Debug\MaxIncreasingSeqInArray.csprojResolveAssemblyReference.cache

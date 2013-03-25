@@ -1,0 +1,5 @@
+D:\ProgramiraneX\VS 2012 Projects\Methods\Methods\bin\Release\Methods.exe.config
+D:\ProgramiraneX\VS 2012 Projects\Methods\Methods\bin\Release\Methods.exe
+D:\ProgramiraneX\VS 2012 Projects\Methods\Methods\bin\Release\Methods.pdb
+D:\ProgramiraneX\VS 2012 Projects\Methods\Methods\obj\Release\Methods.exe
+D:\ProgramiraneX\VS 2012 Projects\Methods\Methods\obj\Release\Methods.pdb

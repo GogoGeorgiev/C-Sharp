@@ -1,0 +1,6 @@
+D:\ProgramiraneX\VS 2012 Projects\MaxSumFromElementsInArray\bin\Debug\MaxSumFromElementsInArray.exe.config
+D:\ProgramiraneX\VS 2012 Projects\MaxSumFromElementsInArray\bin\Debug\MaxSumFromElementsInArray.exe
+D:\ProgramiraneX\VS 2012 Projects\MaxSumFromElementsInArray\bin\Debug\MaxSumFromElementsInArray.pdb
+D:\ProgramiraneX\VS 2012 Projects\MaxSumFromElementsInArray\obj\Debug\MaxSumFromElementsInArray.exe
+D:\ProgramiraneX\VS 2012 Projects\MaxSumFromElementsInArray\obj\Debug\MaxSumFromElementsInArray.pdb
+D:\ProgramiraneX\VS 2012 Projects\MaxSumFromElementsInArray\obj\Debug\MaxSumFromElementsInArray.csprojResolveAssemblyReference.cache

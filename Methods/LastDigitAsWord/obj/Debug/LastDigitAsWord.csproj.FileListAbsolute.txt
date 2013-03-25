@@ -1,0 +1,5 @@
+D:\ProgramiraneX\VS 2012 Projects\Methods\LastDigitAsWord\bin\Debug\LastDigitAsWord.exe.config
+D:\ProgramiraneX\VS 2012 Projects\Methods\LastDigitAsWord\bin\Debug\LastDigitAsWord.exe
+D:\ProgramiraneX\VS 2012 Projects\Methods\LastDigitAsWord\bin\Debug\LastDigitAsWord.pdb
+D:\ProgramiraneX\VS 2012 Projects\Methods\LastDigitAsWord\obj\Debug\LastDigitAsWord.exe
+D:\ProgramiraneX\VS 2012 Projects\Methods\LastDigitAsWord\obj\Debug\LastDigitAsWord.pdb

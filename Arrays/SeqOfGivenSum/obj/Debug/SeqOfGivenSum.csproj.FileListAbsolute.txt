@@ -1,0 +1,6 @@
+D:\ProgramiraneX\VS 2012 Projects\SeqOfGivenSum\bin\Debug\SeqOfGivenSum.exe.config
+D:\ProgramiraneX\VS 2012 Projects\SeqOfGivenSum\bin\Debug\SeqOfGivenSum.exe
+D:\ProgramiraneX\VS 2012 Projects\SeqOfGivenSum\bin\Debug\SeqOfGivenSum.pdb
+D:\ProgramiraneX\VS 2012 Projects\SeqOfGivenSum\obj\Debug\SeqOfGivenSum.csprojResolveAssemblyReference.cache
+D:\ProgramiraneX\VS 2012 Projects\SeqOfGivenSum\obj\Debug\SeqOfGivenSum.exe
+D:\ProgramiraneX\VS 2012 Projects\SeqOfGivenSum\obj\Debug\SeqOfGivenSum.pdb

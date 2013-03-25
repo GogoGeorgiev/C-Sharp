@@ -1,0 +1,6 @@
+D:\ProgramiraneX\VS 2012 Projects\Methods\Neighbours\bin\Release\Neighbours.exe.config
+D:\ProgramiraneX\VS 2012 Projects\Methods\Neighbours\bin\Release\Neighbours.exe
+D:\ProgramiraneX\VS 2012 Projects\Methods\Neighbours\bin\Release\Neighbours.pdb
+D:\ProgramiraneX\VS 2012 Projects\Methods\Neighbours\obj\Release\Neighbours.csprojResolveAssemblyReference.cache
+D:\ProgramiraneX\VS 2012 Projects\Methods\Neighbours\obj\Release\Neighbours.exe
+D:\ProgramiraneX\VS 2012 Projects\Methods\Neighbours\obj\Release\Neighbours.pdb

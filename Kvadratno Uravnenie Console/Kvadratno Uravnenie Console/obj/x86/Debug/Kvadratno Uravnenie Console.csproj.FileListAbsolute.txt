@@ -1,0 +1,7 @@
+c:\users\pc\documents\visual studio 2010\Projects\Kvadratno Uravnenie Console\Kvadratno Uravnenie Console\bin\Debug\Kvadratno Uravnenie Console.exe
+c:\users\pc\documents\visual studio 2010\Projects\Kvadratno Uravnenie Console\Kvadratno Uravnenie Console\bin\Debug\Kvadratno Uravnenie Console.pdb
+c:\users\pc\documents\visual studio 2010\Projects\Kvadratno Uravnenie Console\Kvadratno Uravnenie Console\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2010\Projects\Kvadratno Uravnenie Console\Kvadratno Uravnenie Console\obj\x86\Debug\Kvadratno Uravnenie Console.exe
+c:\users\pc\documents\visual studio 2010\Projects\Kvadratno Uravnenie Console\Kvadratno Uravnenie Console\obj\x86\Debug\Kvadratno Uravnenie Console.pdb
+C:\Users\pc\Desktop\C# Projects\Kvadratno Uravnenie Console\Kvadratno Uravnenie Console\obj\x86\Debug\Kvadratno Uravnenie Console.exe
+C:\Users\pc\Desktop\C# Projects\Kvadratno Uravnenie Console\Kvadratno Uravnenie Console\obj\x86\Debug\Kvadratno Uravnenie Console.pdb

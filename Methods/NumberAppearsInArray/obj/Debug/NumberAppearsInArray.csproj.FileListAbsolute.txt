@@ -1,0 +1,6 @@
+D:\ProgramiraneX\VS 2012 Projects\Methods\NumberAppearsInArray\bin\Debug\NumberAppearsInArray.exe.config
+D:\ProgramiraneX\VS 2012 Projects\Methods\NumberAppearsInArray\bin\Debug\NumberAppearsInArray.exe
+D:\ProgramiraneX\VS 2012 Projects\Methods\NumberAppearsInArray\bin\Debug\NumberAppearsInArray.pdb
+D:\ProgramiraneX\VS 2012 Projects\Methods\NumberAppearsInArray\obj\Debug\NumberAppearsInArray.csprojResolveAssemblyReference.cache
+D:\ProgramiraneX\VS 2012 Projects\Methods\NumberAppearsInArray\obj\Debug\NumberAppearsInArray.exe
+D:\ProgramiraneX\VS 2012 Projects\Methods\NumberAppearsInArray\obj\Debug\NumberAppearsInArray.pdb
